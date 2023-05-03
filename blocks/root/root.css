@@ -1,0 +1,10 @@
+.root {
+    font-family: 'Inter', 'Times New Roman', sans-serif;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    max-width: 1280px;
+    margin: 0 auto;
+}

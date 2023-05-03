@@ -1,0 +1,20 @@
+.place__website {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
+
+
+@media screen and (max-width: 600px){
+    .place__website {
+        margin-left: 20px;
+    }
+}
+
+
+
+@media screen and (max-width: 330px){
+    .place__website {
+        margin-left: 0;
+    }
+}
